@@ -14,7 +14,7 @@ hero:
       link: /demos/FullDemo
     - theme: alt
       text: View on GitHub
-      link: https://github.com/gruhn/vue-qrcode-reader
+      link: https://github.com/EmptyWu/vue-qrcode-reader
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit

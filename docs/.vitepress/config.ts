@@ -14,7 +14,7 @@ export default withPwa(
     base: VITEPRESS_BASE,
     themeConfig: {
       editLink: {
-        pattern: 'https://github.com/gruhn/vue-qrcode-reader/edit/main/docs/:path'
+        pattern: 'https://github.com/EmptyWu/vue-qrcode-reader/edit/main/docs/:path'
       },
       footer: {
         message: 'Released under the MIT License.'
@@ -85,7 +85,7 @@ export default withPwa(
           }
         ]
       },
-      socialLinks: [{ icon: 'github', link: 'https://github.com/gruhn/vue-qrcode-reader' }]
+      socialLinks: [{ icon: 'github', link: 'https://github.com/EmptyWu/vue-qrcode-reader' }]
     },
     title: 'Vue Qrcode Reader',
     vite: {
